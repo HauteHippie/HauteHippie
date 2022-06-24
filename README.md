@@ -3,7 +3,8 @@
 - 👀 Estou interessado em tornar-me um desenvolvedor independente e bastante amigável!
 - 🪴 Estou aprendendo atualmente Java e Linux!
 - 🐧 Meu email de contato é: joaovnak@gmail.com
-- 💞️ Estou disposto a trabalhar em equipe também!
+
+<code> 💞️ Estou disposto a trabalhar em equipe também! </code>
 
 
 <!---
